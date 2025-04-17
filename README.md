@@ -41,3 +41,8 @@ PaymentMethod       | Method of payment (Electronic check/Mailed check/Bank tran
 MonthlyCharges      | Amount charged to the customer monthly.
 TotalCharges        | Total amount charged to the customer (can be empty for customers with zero tenure, might need preprocessing).
 Churn               | Whether the customer has churned (Yes/No).
+
+## Dataset Source
+The dataset used in this project is the Telco Customer Churn dataset, which is publicly available on Kaggle. It contains information about a telecom company's customers, including demographic details, account information, the services they use, and whether they have churned.
+
+Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
