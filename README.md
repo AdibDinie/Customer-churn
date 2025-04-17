@@ -20,7 +20,7 @@ The Telco Customer Churn dataset contains various customer-related features that
 
 Column Name        | Description
 --------------------|-----------------------------------------------------------------------------------------------------
-customerID          | Unique identifier for each customer (not useful for analysis, can be dropped).
+customerID          | Unique identifier for each customer.
 gender              | Customer's gender (male/female).
 SeniorCitizen       | Whether the customer is a senior citizen (1 = Yes, 0 = No).
 Partner             | Whether the customer has a partner (Yes/No).
