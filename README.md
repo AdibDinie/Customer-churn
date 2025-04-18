@@ -46,3 +46,63 @@ Churn               | Whether the customer has churned (Yes/No).
 The dataset used in this project is the Telco Customer Churn dataset, which is publicly available on Kaggle. It contains information about a telecom company's customers, including demographic details, account information, the services they use, and whether they have churned.
 
 Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+## Basic Data Exploration
+
+### Data Type
+|   Column          | Dtype   |
+|-----------------|---------|
+| customerID      | object  |
+| gender          | object  |
+| SeniorCitizen   | int64   |
+| Partner         | object  |
+| Dependents      | object  |
+| tenure          | int64   |
+| PhoneService    | object  |
+| MultipleLines   | object  |
+| InternetService | object  |
+| OnlineSecurity  | object  |
+| OnlineBackup    | object  |
+| DeviceProtection| object  |
+| TechSupport     | object  |
+| StreamingTV     | object  |
+| StreamingMovies | object  |
+| Contract        | object  |
+| PaperlessBilling| object  |
+| PaymentMethod   | object  |
+| MonthlyCharges  | float64 |
+| TotalCharges    | object  |
+| Churn           | object  |
+
+### Missing Value
+
+| Column            | Missing Value |
+|-------------------|---------------|
+| customerID        | 0             |
+| gender            | 0             |
+| SeniorCitizen     | 0             |
+| Partner           | 0             |
+| Dependents        | 0             |
+| tenure            | 0             |
+| PhoneService      | 0             |
+| MultipleLines     | 0             |
+| InternetService   | 0             |
+| OnlineSecurity    | 0             |
+| OnlineBackup      | 0             |
+| DeviceProtection  | 0             |
+| TechSupport       | 0             |
+
+### Data Summary
+
+| Statistic | Value      |
+|-----------|------------|
+| Count     | 7043.000000 |
+| Mean      | 64.761692  |
+| Std       | 30.090047  |
+| Min       | 18.250000  |
+| 25%       | 35.500000  |
+| 50%       | 70.350000  |
+| 75%       | 89.850000  |
+| Max       | 118.750000 |
+
+## Exploratory Data Analysis
