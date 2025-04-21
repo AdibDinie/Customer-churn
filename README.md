@@ -106,3 +106,23 @@ Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 | Max       | 118.750000 |
 
 ## Exploratory Data Analysis
+
+![Churn](EDA-reference/Churn1.png)
+
+![Churn](EDA-reference/Churn2.png)
+
+![Churn](EDA-reference/Churn3.png)
+
+![Churn](EDA-reference/Churn4.png)
+
+![Churn](EDA-reference/Churn5.png)
+
+![Churn](EDA-reference/Churn6.png)
+
+![Churn](EDA-reference/Churn7.png)
+
+![Churn](EDA-reference/Churn8.png)
+
+![Churn](EDA-reference/Churn9.png)
+![Churn](EDA-reference/Churn10.png)
+![Churn](EDA-reference/Churn11.png)
